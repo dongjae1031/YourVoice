@@ -1,0 +1,6 @@
+framework module Pods_YourVoice {
+  umbrella header "Pods-YourVoice-umbrella.h"
+
+  export *
+  module * { export * }
+}
